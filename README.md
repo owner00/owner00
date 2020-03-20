@@ -1,2 +1,12 @@
-# owner00
-Repo for the start.ng program
+Full Name: Nnaemeka Ukpa Aja
+Email Address: ajahnnaemeka@gmail.com
+Slack Username: owner00
+Tracks:
+ Design,
+ Frontend,
+ Mobile,
+ Backend.
+Courses:
+ HTML, CSS and JavaScript
+ JAVA
+ C#
